@@ -10,3 +10,6 @@ To execute the streamlit GUI, simply run the following:
 streamlit run xxx.py
 ```
 However, remember to first link your PyTorch file path and import your model in the Python file first!
+
+
+The CNN Version will be uploaded soon! 
