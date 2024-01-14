@@ -1,4 +1,4 @@
-# MNIST Training with 4 layers linear NN
+# MNIST Training with 4 layers linear ANN
 
 The MNIST images are (probably) sufficient for training your model. However, do note that too much epoch may cause *overfitting*.
 To run the model, upload it to <https://colab.google/> and run it.
